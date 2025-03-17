@@ -1,22 +1,33 @@
-Tic-Tac-Toe Game
-Welcome to the Tic-Tac-Toe game! This is a simple two-player game where you can enter your names and take turns to play Tic-Tac-Toe. The game will display the winner when someone wins.
+# 🎮 Tic-Tac-Toe Game  
 
-Features
-Two-player game: Enjoy a classic game of Tic-Tac-Toe with a friend.
-<br/>
-Compete to see who can outmaneuver the other and claim victory.
-<br/>
-Customizable player names: Make the game your own by entering custom names for Player X and Player O. 
-<br/>Add a personal touch to your matches.
-Interactive Gameplay: The game offers an interactive and user-friendly interface. Simply click on the cells to make your moves. The grid highlights the current player's turn, ensuring a seamless gaming experience.
-<br/>
-Winning Announcements: When a player wins the game, our Tic-Tac-Toe application will proudly display the victorious player's name and a celebratory message. It's not just about winning; it's about enjoying the thrill of victory!
-<br/>
-Responsive Design: Whether you're playing on a desktop computer, tablet, or mobile device, our game's responsive design ensures that you can enjoy Tic-Tac-Toe anywhere, anytime.
-<br/>
-Easy Reset: Want to start a new game? No problem! A convenient reset button allows you to quickly clear the board and begin a fresh match.
-<br/>
-Technologies Used
-HTML
-CSS
-JavaScript (Factory Functions and Module Pattern)
+Welcome to the **Tic-Tac-Toe game**! This is a simple **two-player game** where you can enter your names and take turns to play. The game will automatically detect the winner and display a celebratory message.  
+
+## ✨ Features  
+
+✅ **Two-Player Mode** – Play with a friend and see who wins!  
+✅ **Custom Player Names** – Enter your name for Player X and Player O.  
+✅ **Interactive Gameplay** – Click on the grid cells to make your move.  
+✅ **Winning Announcements** – Displays the winner with a celebratory message.  
+✅ **Responsive Design** – Works on desktop, tablet, and mobile devices.  
+✅ **Easy Reset** – A reset button to start a new match instantly.  
+
+## 🛠️ Technologies Used  
+
+- **HTML** – For structuring the game.  
+- **CSS** – For styling and layout.  
+- **JavaScript** – Implements game logic using **Factory Functions & Module Pattern**.  
+
+## 🚀 How to Play  
+
+1. Open the game in a browser.  
+2. Enter player names and start playing by clicking on the grid.  
+3. Take turns placing **X** and **O** until a player wins or the match ends in a draw.  
+4. Click the **Reset Button** to start a new round.   
+
+## 🤝 Contributing  
+
+Feel free to fork this repository, make improvements, and submit a pull request.  
+
+## 📬 Contact  
+
+🔗 **GitHub:** [Shivampatil87](https://github.com/Shivampatil87)  
